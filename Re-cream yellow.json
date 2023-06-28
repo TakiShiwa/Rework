@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 1.1.6",
+    "name": "Re-Cream Yellow 1.1.6a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -75,6 +75,7 @@
         "BACKGROUND_TERTIARY": [
             "#212121",
             "#212121"
+	    ],
         "CHANNELS_DEFAULT": [
             "#7c6f64",
             "#7c6f64"			
