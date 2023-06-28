@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.5n",
+    "name": "Cream Yellow 1.1.5p",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -75,6 +75,9 @@
         "BACKGROUND_TERTIARY": [
             "#212121",
             "#212121"
+        "CHANNELS_DEFAULT": [
+            "#7c6f64",
+            "#7c6f64"			
         ],
         "CHANNEL_ICON": [
             "#83a598",
@@ -265,8 +268,8 @@
             "#fab387"
         ],
         "STATUS_WARNING_TEXT": [
-            "#FF0000",
-            "#FF0000"
+            "#7f849c",
+            "#7f849c"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#74c7ec",
