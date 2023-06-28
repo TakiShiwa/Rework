@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 1.1.6e",
+    "name": "Re-Cream Yellow 1.1.6f",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -9,8 +9,8 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#cc241d",
-            "#cc241d"
+            "#fb4934",
+            "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
             "#3c3836",
@@ -173,8 +173,8 @@
             "#3c3836"
         ],
         "INFO_DANGER_TEXT": [
-            "#fbf1c7",
-            "#fbf1c7"
+            "#fb4934",
+            "#fb4934"
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
@@ -249,8 +249,8 @@
             "#453B3B"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#cc241d",
-            "#cc241d"
+            "#fb4934",
+            "#fb4934"
         ],
         "STATUS_DANGER_TEXT": [
             "#83a598",
@@ -269,16 +269,16 @@
             "#fab387"
         ],
         "STATUS_WARNING_TEXT": [
-            "#FF0000",
-            "#FF0000"
+            "#fb4934",
+            "#fb4934"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#74c7ec",
             "#74c7ec"
         ],
         "TEXT_DANGER": [
-            "#cc241d",
-            "#cc241d"
+            "#fb4934",
+            "#fb4934"
         ],
         "TEXT_LINK": [
             "#b4befe",
@@ -301,8 +301,8 @@
             "#a6e3a1"
         ],
         "TEXT_WARNING": [
-            "#cc241d",
-            "#cc241d"
+            "#fb4934",
+            "#fb4934"
         ],
         "CHAT_BACKGROUND": [
             "#282828",
