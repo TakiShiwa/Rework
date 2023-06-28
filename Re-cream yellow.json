@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.5c",
+    "name": "Cream Yellow 1.1.5d",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -37,8 +37,8 @@
             "#282828"
         ],
         "BACKGROUND_ACCENT": [
-            "#E8AC41",
-            "#E8AC41"
+            "#fabd2f",
+            "#fabd2f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#282828",
@@ -285,8 +285,8 @@
             "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#689d6a",
-            "#689d6a"
+            "#b8bb26",
+            "#b8bb26"
         ],
         "TEXT_NORMAL": [
             "#ebdbb2",
@@ -320,7 +320,7 @@
         "BRAND_360": "#E9B872",
         "BRAND_500": "#d79921",
         "BRAND_560": "#A07F50",
-        "RED_400": "#E8AC41",
+        "RED_400": "#fabd2f",
         "GREEN_360": "#908A71"
     },
     "spec": 2
