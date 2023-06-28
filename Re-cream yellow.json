@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.5a",
+    "name": "Cream Yellow 1.1.5b",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -9,8 +9,8 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#FF0000",
-            "#FF0000"
+            "#cc241d",
+            "#cc241d"
         ],
         "BACKGROUND_FLOATING": [
             "#3c3836",
@@ -245,8 +245,8 @@
             "#453B3B"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#FF0000",
-            "#FF0000"
+            "#cc241d",
+            "#cc241d"
         ],
         "STATUS_DANGER_TEXT": [
             "#83a598",
@@ -273,8 +273,8 @@
             "#74c7ec"
         ],
         "TEXT_DANGER": [
-            "#FF0000",
-            "#FF0000"
+            "#cc241d",
+            "#cc241d"
         ],
         "TEXT_LINK": [
             "#b4befe",
@@ -285,8 +285,8 @@
             "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#85876D",
-            "#85876D"
+            "#689d6a",
+            "#689d6a"
         ],
         "TEXT_NORMAL": [
             "#ebdbb2",
@@ -297,8 +297,8 @@
             "#a6e3a1"
         ],
         "TEXT_WARNING": [
-            "#FF0000",
-            "#FF0000"
+            "#cc241d",
+            "#cc241d"
         ],
         "CHAT_BACKGROUND": [
             "#282828",
