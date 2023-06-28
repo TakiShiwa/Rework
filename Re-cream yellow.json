@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.45",
+    "name": "Cream Yellow 1.1.45a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -315,7 +315,7 @@
         "PRIMARY_700": "#3C3836",
         "PRIMARY_800": "#282828",
         "PRIMARY_900": "#282828",
-        "WHITE_500": "#ebdbb2",
+        "WHITE_500": "#F3E3BA",
         "BRAND_260": "#57504c",
         "BRAND_360": "#E9B872",
         "BRAND_500": "#E8AC41",
