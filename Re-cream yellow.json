@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.5",
+    "name": "Cream Yellow 1.1.5a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -289,8 +289,8 @@
             "#85876D"
         ],
         "TEXT_NORMAL": [
-            "#98971a",
-            "#FFFFE0"
+            "#ebdbb2",
+            "#ebdbb2"
         ],
         "TEXT_POSITIVE": [
             "#a6e3a1",
