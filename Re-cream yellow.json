@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.2",
+    "name": "Cream Yellow 1.1.2a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -69,8 +69,8 @@
             "#2D2D2D"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FF0000",
-            "#FF0000"
+            "#453b3b",
+            "#453b3b"
         ],
         "BACKGROUND_TERTIARY": [
             "#212121",
@@ -233,8 +233,8 @@
             "#6c7086"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#453B3B",
-            "#453B3B"
+            "#FF0000",
+            "#FF0000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#6c7086",
