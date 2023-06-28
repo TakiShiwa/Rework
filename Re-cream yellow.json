@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.5j",
+    "name": "Cream Yellow 1.1.5k",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -105,8 +105,8 @@
             "#282828"
         ],
         "DEPRECATED_STORE_BG": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
@@ -153,8 +153,8 @@
             "#282828"
         ],
         "HEADER_PRIMARY": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "HEADER_SECONDARY": [
             "#E9B872",
@@ -169,8 +169,8 @@
             "#3c3836"
         ],
         "INFO_DANGER_TEXT": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
@@ -181,8 +181,8 @@
             "#11111b"
         ],
         "INFO_HELP_TEXT": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
@@ -193,8 +193,8 @@
             "#11111b"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#282828",
@@ -209,8 +209,8 @@
             "#bac2de"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INTERACTIVE_HOVER": [
             "#bac2de",
@@ -257,8 +257,8 @@
             "#a6e3a1"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#fab387",
@@ -281,16 +281,16 @@
             "#b4befe"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "TEXT_MUTED": [
             "#a89984",
             "#a89984"
         ],
         "TEXT_NORMAL": [
-            "#ebdbb2",
-            "#ebdbb2"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "TEXT_POSITIVE": [
             "#a6e3a1",
