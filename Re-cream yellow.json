@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 2.1.0r",
+    "name": "Re-Cream Yellow 2.1.0s",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -330,7 +330,7 @@
         "RED_400": "#d79921",
         "RED_430": "#d79921",
         "RED_460": "#d79921",
-        "GREEN_360": "#928374",
+        "GREEN_360": "#8ec07c",
         "WHITE_500": "#fbf1c7",
         "YELLOW_300": "#cc241d"
     },
