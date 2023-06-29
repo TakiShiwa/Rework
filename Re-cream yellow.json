@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 1.1.6n",
+    "name": "Re-Cream Yellow 1.1.6o",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -17,8 +17,8 @@
             "#3c3836"
         ],
         "BACKGROUND_MENTIONED": [
-            "#076678",
-            "#076678"
+            "#fe8019",
+            "#fe8019"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#a39971",
@@ -49,8 +49,8 @@
             "#3A2C26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#076678",
-            "#076678"
+            "#fe8019",
+            "#fe8019"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
@@ -109,8 +109,8 @@
             "#282828"
         ],
         "DEPRECATED_STORE_BG": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
@@ -157,8 +157,8 @@
             "#282828"
         ],
         "HEADER_PRIMARY": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "HEADER_SECONDARY": [
             "#E9B872",
@@ -185,8 +185,8 @@
             "#11111b"
         ],
         "INFO_HELP_TEXT": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
@@ -197,8 +197,8 @@
             "#11111b"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#282828",
@@ -213,8 +213,8 @@
             "#bac2de"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "INTERACTIVE_HOVER": [
             "#bac2de",
@@ -233,16 +233,16 @@
             "#83a598"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#076678",
-            "#076678"
+            "#fe8019",
+            "#fe8019"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#453B3B",
             "#453B3B"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#076678",
-            "#076678"
+            "#fe8019",
+            "#fe8019"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#453B3B",
@@ -261,8 +261,8 @@
             "#a6e3a1"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#fab387",
@@ -285,16 +285,16 @@
             "#b4befe"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#85876D",
-            "#85876D"
+            "#7c6f64",
+            "#7c6f64"
         ],
         "TEXT_NORMAL": [
-            "#f9f5d7",
-            "#f9f5d7"
+            "#fbf1c7",
+            "#fbf1c7"
         ],
         "TEXT_POSITIVE": [
             "#a6e3a1",
