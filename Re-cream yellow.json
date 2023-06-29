@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 2.1.0q",
+    "name": "Re-Cream Yellow 2.1.0r",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -186,7 +186,7 @@
         ],
         "INFO_HELP_TEXT": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
@@ -198,7 +198,7 @@
         ],
         "INFO_POSITIVE_TEXT": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#282828",
@@ -214,7 +214,7 @@
         ],
         "INTERACTIVE_ACTIVE": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "INTERACTIVE_HOVER": [
             "#bac2de",
@@ -262,7 +262,7 @@
         ],
         "STATUS_POSITIVE_TEXT": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#fab387",
@@ -286,7 +286,7 @@
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "TEXT_MUTED": [
             "#7c6f64",
@@ -294,7 +294,7 @@
         ],
         "TEXT_NORMAL": [
             "#fbf1c7",
-            "#3c3836"
+            "#282828"
         ],
         "TEXT_POSITIVE": [
             "#8ec07c",
@@ -316,7 +316,7 @@
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
         "PRIMARY_500": "#504945",
-        "PRIMARY_600": "#ff0000",
+        "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
         "PRIMARY_660": "#3C3836",
         "PRIMARY_700": "#3C3836",
