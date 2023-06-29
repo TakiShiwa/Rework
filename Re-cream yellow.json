@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 2.1.0",
+    "name": "Re-Cream Yellow 2.1.0a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -310,23 +310,24 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#504945",
-        "PRIMARY_100": "#928374",
+	"PRIMARY_100": "#928374",
+	"PRIMARY_200": "#ff0000",
         "PRIMARY_300": "#928374",
         "PRIMARY_400": "#85876D",
+	"PRIMARY_500": "#504945",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
         "PRIMARY_700": "#3C3836",
         "PRIMARY_800": "#282828",
         "PRIMARY_900": "#282828",
-        "WHITE_500": "#F3E3BA",
         "BRAND_260": "#E9B872",
         "BRAND_360": "#E9B872",
         "BRAND_500": "#d79921",
         "BRAND_560": "#A07F50",
         "RED_400": "#d79921",
         "GREEN_360": "#928374",
-        "BLUE_345": "#FF0000"
+        "BLUE_345": "#FF0000",
+        "WHITE_500": "#F3E3BA"
     },
     "spec": 2
             }
