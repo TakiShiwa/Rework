@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 2.1.0u",
+    "name": "Re-Cream Yellow 2.1.0v",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -17,8 +17,8 @@
             "#ebdbb2"
         ],
         "BACKGROUND_MENTIONED": [
-            "#A97D36",
-            "#af3a03"
+            "#b8bb26",
+            "#79740e"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#a89984",
@@ -49,7 +49,7 @@
             "#3A2C26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#A97D36",
+            "#b8bb26",
             "#d65d0e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -233,7 +233,7 @@
             "#076678"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#A97D36",
+            "#b8bb26",
             "#d65d0e"
         ],
         "SCROLLBAR_AUTO_TRACK": [
@@ -241,7 +241,7 @@
             "#ebdbb2"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#A97D36",
+            "#b8bb26",
             "#d65d0e"
         ],
         "SCROLLBAR_THIN_TRACK": [
