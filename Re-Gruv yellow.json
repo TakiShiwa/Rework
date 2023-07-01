@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1",
+    "name": "Re-Cream Yellow 3.0.1a",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -15,7 +15,7 @@
         "BACKGROUND_FLOATING": [
             "#3c3836",
             "#ebdbb2",
-            "#1d2021"
+            "#010B13"
         ],
         "BACKGROUND_MENTIONED": [
             "#B3A489",
@@ -37,7 +37,7 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#282828",
             "#fbf1c7",
-            "#000000"
+            "#060607"
         ],
         "BACKGROUND_ACCENT": [
             "#d79921",
@@ -64,7 +64,8 @@
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#010B13"
         ],
         "BACKGROUND_PRIMARY": [
             "#282828",
@@ -73,7 +74,8 @@
         ],
         "BACKGROUND_SECONDARY": [
             "#3c3836",
-            "#ebdbb2"
+            "#ebdbb2",
+            "#010B13"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3C3836",
@@ -219,22 +221,28 @@
             "#f9f5d7"
         ],
         "INFO_WARNING_TEXT": [
-            "#bac2de",
-            "#bac2de"
+            "#bdae93",
+            "#bdae93",
+            "#bdae93"
         ],
         "INTERACTIVE_ACTIVE": [
             "#fbf1c7",
-            "#282828"
+            "#282828",
+            "#fbf1c7"
         ],
         "INTERACTIVE_HOVER": [
-            "#bac2de",
-            "#bac2de"
+            "#bdae93",
+            "#bdae93",
+            "#bdae93"
+			
         ],
         "INTERACTIVE_MUTED": [
+            "#928374",
             "#928374",
             "#928374"
         ],
         "INTERACTIVE_NORMAL": [
+            "#928374",
             "#928374",
             "#928374"
         ],
@@ -286,16 +294,19 @@
             "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#74c7ec",
-            "#74c7ec"
+            "#076678",
+            "#076678",
+            "#076678"
         ],
         "TEXT_DANGER": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+            "#fb4934"
         ],
         "TEXT_LINK": [
             "#b4befe",
-            "#7680C0"
+            "#7680C0",
+            "#A8B2F2"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#fbf1c7",
@@ -312,11 +323,13 @@
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
-            "#427b58"
+            "#427b58",
+            "#689d6a"
         ],
         "TEXT_WARNING": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+            "#cc241d"
         ],
         "CHAT_BACKGROUND": [
             "#282828",
