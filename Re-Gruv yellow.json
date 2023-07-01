@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1c",
+    "name": "Re-Cream Yellow 3.0.1d",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -51,7 +51,7 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#282828",
             "#fbf1c7",
-            "#282828"
+            "#1d2021"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3A2C26",
@@ -70,7 +70,7 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#282828",
             "#fbf1c7",
-            "#282828"
+            "#1d2021"
         ],
         "BACKGROUND_PRIMARY": [
             "#282828",
@@ -80,12 +80,12 @@
         "BACKGROUND_SECONDARY": [
             "#3c3836",
             "#ebdbb2",
-            "#282828"
+            "#1d2021"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3C3836",
             "#ebdbb2",
-            "#282828"
+            "#1d2021"
         ],
         "BACKGROUND_TERTIARY": [
             "#1d2021",
@@ -108,23 +108,28 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_CARD_BG": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_STORE_BG": [
             "#fbf1c7",
@@ -132,7 +137,8 @@
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#282828",
@@ -141,7 +147,8 @@
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
             "#282828",
@@ -181,11 +188,13 @@
         ],
         "HEADER_SECONDARY": [
             "#fabd2f",
-            "#b57614"
+            "#b57614",
+            "#fabd2f"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#1d2021"
         ],
         "INFO_DANGER_FOREGROUND": [
             "#3c3836",
@@ -269,7 +278,8 @@
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#bdae93",
-            "#665c54"
+            "#665c54",
+            "#bdae93"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#3C3836",
