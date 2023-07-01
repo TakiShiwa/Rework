@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1d",
+    "name": "Re-Cream Yellow 3.0.1e",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -41,7 +41,7 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#282828",
             "#fbf1c7",
-            "#060607"
+            "#282828"
         ],
         "BACKGROUND_ACCENT": [
             "#d79921",
@@ -51,7 +51,7 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3A2C26",
@@ -65,12 +65,13 @@
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
-            "#d5c4a1"
+            "#d5c4a1",
+            "#282828"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "BACKGROUND_PRIMARY": [
             "#282828",
@@ -89,7 +90,8 @@
         ],
         "BACKGROUND_TERTIARY": [
             "#1d2021",
-            "#f9f5d7"
+            "#f9f5d7",
+            "#1d2021"
         ],
         "CHANNELS_DEFAULT": [
             "#928374",
@@ -99,7 +101,7 @@
         "CHANNEL_ICON": [
             "#83a598",
             "#076678",
-            "83a598"
+            "#83a598"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#928374",
@@ -109,27 +111,27 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_CARD_BG": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_STORE_BG": [
             "#fbf1c7",
@@ -138,7 +140,7 @@
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#282828",
@@ -148,39 +150,47 @@
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
             "#282828",
             "#fbf1c7",
-            "#1d2021"
+            "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_PREFIX": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "ELEVATION_HIGH": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "ELEVATION_LOW": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "ELEVATION_MEDIUM": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "ELEVATION_STROKE": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "FOCUS_PRIMARY": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "HEADER_PRIMARY": [
             "#fbf1c7",
@@ -202,15 +212,18 @@
         ],
         "INFO_DANGER_TEXT": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+            "#fb4934"
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "INFO_HELP_FOREGROUND": [
             "#1d2021",
-            "#f9f5d7"
+            "#f9f5d7",
+            "#1d2021"
         ],
         "INFO_HELP_TEXT": [
             "#fbf1c7",
@@ -218,15 +231,18 @@
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "INFO_POSITIVE_FOREGROUND": [
             "#1d2021",
-            "#f9f5d7"
+            "#f9f5d7",
+            "#1d2021"
         ],
         "INFO_POSITIVE_TEXT": [
             "#fbf1c7",
-            "#282828"
+            "#282828",
+            "#fbf1c7"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#282828",
@@ -264,7 +280,8 @@
         ],
         "LOGO_PRIMARY": [
             "#83a598",
-            "#076678"
+            "#076678",
+            "#83a598"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#bdae93",
@@ -289,28 +306,33 @@
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+            "#fb4934"
         ],
         "STATUS_DANGER_TEXT": [
             "#83a598",
-            "#076678"
+            "#076678",
+            "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#689d6a",
-            "#427b58"
+            "#427b58",
+            "#689d6a"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#fbf1c7",
-            "#282828"
+            "#282828",
+            "#fbf1c7"
         ],
         "STATUS_WARNING_BACKGROUND": [
+            "#fab387",
             "#fab387",
             "#fab387"
         ],
         "STATUS_WARNING_TEXT": [
             "#fb4934",
             "#9d0006",
-            "#000000"
+            "#fb4934"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#076678",
@@ -333,7 +355,8 @@
         ],
         "TEXT_MUTED": [
             "#7c6f64",
-            "#a89984"
+            "#a89984",
+            "#7c6f64"
         ],
         "TEXT_NORMAL": [
             "#fbf1c7",
