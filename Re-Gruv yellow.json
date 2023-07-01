@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1q",
+    "name": "Re-Cream Yellow 3.0.1r",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -406,11 +406,10 @@
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
-        "PRIMARY_430": "#ff0000",
-        "PRIMARY_460": "#ff0000",
         "PRIMARY_500": "#504945",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
+        "PRIMARY_645": "#ff0000",
         "PRIMARY_660": "#3C3836",
         "PRIMARY_700": "#3C3836",
         "PRIMARY_800": "#1d2021",
