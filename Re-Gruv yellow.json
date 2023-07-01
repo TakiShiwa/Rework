@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.0",
+    "name": "Re-Cream Yellow 3.0.1",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -14,7 +14,8 @@
         ],
         "BACKGROUND_FLOATING": [
             "#3c3836",
-            "#ebdbb2"
+            "#ebdbb2",
+            "#1d2021"
         ],
         "BACKGROUND_MENTIONED": [
             "#B3A489",
@@ -31,13 +32,15 @@
         "BACKGROUND_MOBILE_PRIMARY": [
             "#282828",
             "#fbf1c7",
-	    "#000000"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
+            "#d79921",
             "#d79921",
             "#d79921"
         ],
@@ -47,11 +50,13 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3A2C26",
-            "#3A2C26"
+            "#3A2C26",
+            "#9d0006"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#bdae93",
-            "#665c54"
+            "#665c54",
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
@@ -63,7 +68,8 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+	    "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#3c3836",
@@ -71,19 +77,21 @@
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3C3836",
-            "#ebdbb2"
+            "#ebdbb2",
+            "#282828"
         ],
         "BACKGROUND_TERTIARY": [
             "#1d2021",
             "#f9f5d7"
-	],
+        ],
         "CHANNELS_DEFAULT": [
             "#928374",
             "#928374"			
         ],
         "CHANNEL_ICON": [
             "#83a598",
-            "#076678"
+            "#076678",
+            "83a598"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#928374",
@@ -120,7 +128,7 @@
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#282828",
             "#fbf1c7",
-	    "#000000"
+            "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
             "#282828",
@@ -249,7 +257,7 @@
         "SCROLLBAR_THIN_TRACK": [
             "#3C3836",
             "#ebdbb2",
-	    "#000000"
+            "#000000"
 		
         ],
         "STATUS_DANGER_BACKGROUND": [
@@ -275,7 +283,7 @@
         "STATUS_WARNING_TEXT": [
             "#fb4934",
             "#9d0006",
-	    "#000000"
+            "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#74c7ec",
@@ -299,7 +307,8 @@
         ],
         "TEXT_NORMAL": [
             "#fbf1c7",
-            "#282828"
+            "#282828",
+            "#ebdbb2"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -312,11 +321,11 @@
         "CHAT_BACKGROUND": [
             "#282828",
             "#fbf1c7",
-	    "#000000"
+            "#000000"
         ]
     },
     "rawColors": {
-	"BG_GRADIENT_CRIMSON_MOON_2": "#000000",
+        "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
         "PRIMARY_200": "#ebdbb2",
