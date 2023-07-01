@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1m",
+    "name": "Re-Cream Yellow 3.0.1n",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -396,8 +396,8 @@
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
-        "PRIMARY_160": "#ff0000",
         "PRIMARY_200": "#ebdbb2",
+        "PRIMARY_230": "#ff0000",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
