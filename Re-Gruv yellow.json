@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1b",
+    "name": "Re-Cream Yellow 3.0.1c",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -10,7 +10,8 @@
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+            "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
             "#3c3836",
@@ -19,13 +20,16 @@
         ],
         "BACKGROUND_MENTIONED": [
             "#B3A489",
-            "#70665E"
+            "#70665E",
+            "#B3A489"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#bdae93",
-            "#665c54"
+            "#665c54",
+            "#bdae93"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
+            "#3a4d63",
             "#3a4d63",
             "#3a4d63"
         ],
@@ -66,17 +70,17 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#282828",
             "#fbf1c7",
-            "#010B13"
+            "#282828"
         ],
         "BACKGROUND_PRIMARY": [
             "#282828",
             "#fbf1c7",
-	    "#000000"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#3c3836",
             "#ebdbb2",
-            "#010B13"
+            "#282828"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3C3836",
@@ -88,6 +92,7 @@
             "#f9f5d7"
         ],
         "CHANNELS_DEFAULT": [
+            "#928374",
             "#928374",
             "#928374"			
         ],
