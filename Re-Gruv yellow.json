@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 2.1.0y",
+    "name": "Re-Cream Yellow 3.0.0",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -17,8 +17,8 @@
             "#ebdbb2"
         ],
         "BACKGROUND_MENTIONED": [
-            "#665c54",
-            "#bdae93"
+            "#B3A489",
+            "#70665E"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#bdae93",
@@ -30,7 +30,8 @@
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+	    "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#282828",
@@ -118,7 +119,8 @@
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+	    "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
             "#282828",
@@ -246,7 +248,9 @@
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#3C3836",
-            "#ebdbb2"
+            "#ebdbb2",
+	    "#000000"
+		
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
@@ -270,7 +274,8 @@
         ],
         "STATUS_WARNING_TEXT": [
             "#fb4934",
-            "#9d0006"
+            "#9d0006",
+	    "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#74c7ec",
@@ -306,10 +311,12 @@
         ],
         "CHAT_BACKGROUND": [
             "#282828",
-            "#fbf1c7"
+            "#fbf1c7",
+	    "#000000"
         ]
     },
     "rawColors": {
+	"BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
         "PRIMARY_200": "#ebdbb2",
@@ -323,6 +330,19 @@
         "PRIMARY_700": "#3C3836",
         "PRIMARY_800": "#1d2021",
         "PRIMARY_900": "#282828",
+        "BLACK_500": "#000000",
+        "BLACK_530": "#000000",
+        "BLACK_560": "#000000",
+        "BLACK_600": "#000000",
+        "BLACK_630": "#000000",
+        "BLACK_660": "#000000",
+        "BLACK_700": "#000000",
+        "BLACK_730": "#000000",
+        "BLACK_760": "#000000",
+        "BLACK_800": "#000000",
+        "BLACK_830": "#000000",
+        "BLACK_860": "#000000",
+        "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
         "BRAND_260": "#fabd2f",
         "BRAND_360": "#b57614",
