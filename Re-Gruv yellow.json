@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.1j",
+    "name": "Re-Cream Yellow 3.0.1k",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -420,7 +420,7 @@
         "BLACK_830": "#000000",
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
-        "BRAND_230": "#ff0000",
+        "BRAND_230": "#928374",
         "BRAND_260": "#fabd2f",
         "BRAND_360": "#b57614",
         "BRAND_500": "#d79921",
