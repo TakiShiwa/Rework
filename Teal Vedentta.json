@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.5g",
+  "name": "Teal Vendetta 1.0.5h",
   "description": "idk.",
 "authors": [
     {
@@ -85,8 +85,8 @@
           "#d3e4ff"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-          "#64b8b8",
-          "#64b8b8"
+          "#80d4d2",
+          "#80d4d2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#3bb8ba",
@@ -225,8 +225,8 @@
           "#9cf0f0"
       ],
       "INTERACTIVE_NORMAL": [
-          "#3bb8ba",
-          "#3bb8ba"
+          "#80d4d2",
+          "#80d4d2"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
