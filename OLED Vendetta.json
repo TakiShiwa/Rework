@@ -310,7 +310,7 @@
       ]
   },
   "rawColors": {
-      "PRIMARY_100": "#ff0000",
+      "PRIMARY_100": "#affffe",
       "PRIMARY_130": "#f1ffff",
       "PRIMARY_200": "#affffe",
       "PRIMARY_300": "#64b8b8",
@@ -324,7 +324,7 @@
       "PRIMARY_800": "#00201f",
       "PRIMARY_900": "#020202",
       "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-      "BRAND_230": "#ff0000",
+      "BRAND_230": "#003837",
       "BRAND_260": "#617b7a",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
