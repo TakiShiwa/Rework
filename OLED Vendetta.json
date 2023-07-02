@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.2",
+  "name": "Oled Teal Vendetta 1.0.3",
   "description": "idk.",
 "authors": [
     {
@@ -69,8 +69,8 @@
           "#248282"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#3bb8ba",
-          "#3bb8ba"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_TERTIARY": [
           "#060607",
@@ -81,8 +81,8 @@
           "#617b7a"			
       ],
       "CHANNEL_ICON": [
-          "#248282",
-          "#248282"
+          "#006a68",
+          "#006a68"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
           "#80d4d2",
