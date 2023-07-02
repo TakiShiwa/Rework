@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.1",
+  "name": "Oled Teal Vendetta 1.0.2",
   "description": "idk.",
 "authors": [
     {
@@ -41,8 +41,8 @@
           "#248282"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#489e9d",
-          "#affffe"
+          "#000000",
+          "#000000"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#006a68",
@@ -53,20 +53,20 @@
           "#d65d0e5a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#64b8b8",
-          "#64b8b8"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#3bb8ba",
-          "#affffe"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_PRIMARY": [
           "#000000",
           "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-          "#3bb8ba",
-          "#3bb8ba"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_SECONDARY_ALT": [
           "#3bb8ba",
@@ -93,12 +93,12 @@
           "#111214"
       ],
       "DEPRECATED_CARD_BG": [
-          "#3bb8ba",
-          "#affffe"
+          "#3bb8ba40",
+          "#affffe40"
       ],
       "DEPRECATED_CARD_EDITABLE_BG": [
-          "#3bb8ba",
-          "#affffe"
+          "#3bb8ba4d",
+          "#affffe4d"
       ],
       "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
           "#3bb8ba",
@@ -317,7 +317,7 @@
       "PRIMARY_360": "#64b8b8",
       "PRIMARY_400": "#248282",
       "PRIMARY_500": "#617B7A",
-      "PRIMARY_600": "#3bb8ba",
+      "PRIMARY_600": "#000000",
       "PRIMARY_630": "#3bb8ba",
       "PRIMARY_660": "#248282",
       "PRIMARY_700": "#248282",
