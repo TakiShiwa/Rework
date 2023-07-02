@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.5i",
+  "name": "Teal Vendetta 1.0.5j",
   "description": "idk.",
 "authors": [
     {
@@ -77,8 +77,8 @@
           "#f9f5d7"
       ],
       "CHANNELS_DEFAULT": [
-          "#7c9695",
-          "#7c9695"			
+          "#617b7a",
+          "#617b7a"			
       ],
       "CHANNEL_ICON": [
           "#4b607d",
@@ -324,10 +324,10 @@
       "PRIMARY_800": "#248282",
       "PRIMARY_900": "#3bb8ba",
       "BRAND_230": "#ff0000",
-      "BRAND_260": "#64b8b8",
+      "BRAND_260": "#617b7a",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
-      "BRAND_560": "#64b8b8",
+      "BRAND_560": "#617b7a",
       "RED_400": "#3BB8BA",
       "RED_430": "#248282",
       "RED_460": "#248282",
