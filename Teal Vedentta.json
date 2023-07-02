@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.1a",
+  "name": "Teal Vendetta 1.0.2",
   "description": "idk.",
 "authors": [
     {
@@ -14,7 +14,7 @@
       ],
       "BACKGROUND_FLOATING": [
           "#248282",
-          "#ebdbb2"
+          "#9cf0f0"
       ],
       "BACKGROUND_MENTIONED": [
           "#b8bb26",
