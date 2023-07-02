@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.4",
+  "name": "Teal Vendetta 1.0.5",
   "description": "idk.",
 "authors": [
     {
@@ -29,11 +29,11 @@
           "#3a4d63"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#3bb8ba",
+          "#31AEB0",
           "#affffe"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#3bb8ba",
+          "#31AEB0",
           "#affffe"
       ],
       "BACKGROUND_ACCENT": [
@@ -41,7 +41,7 @@
           "#248282"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#3bb8ba",
+          "#31AEB0",
           "#affffe"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
@@ -53,8 +53,8 @@
           "#d65d0e5a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#489e9d",
-          "#489e9d"
+          "#64b8b8",
+          "#64b8b8"
       ],
       "BACKGROUND_NESTED_FLOATING": [
           "#3bb8ba",
@@ -77,16 +77,16 @@
           "#f9f5d7"
       ],
       "CHANNELS_DEFAULT": [
-          "#489e9d",
-          "#489e9d"			
+          "#64b8b8",
+          "#64b8b8"			
       ],
       "CHANNEL_ICON": [
           "#4b607d",
           "#d3e4ff"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-          "#489e9d",
-          "#489e9d"
+          "#64b8b8",
+          "#64b8b8"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#3bb8ba",
@@ -161,7 +161,7 @@
           "#3bb8ba"
       ],
       "HEADER_SECONDARY": [
-          "#489e9d",
+          "#64b8b8",
           "#b57614"
       ],
       "INFO_DANGER_BACKGROUND": [
@@ -221,12 +221,12 @@
           "#bac2de"
       ],
       "INTERACTIVE_MUTED": [
-          "#489e9d",
-          "#489e9d"
+          "#64b8b8",
+          "#64b8b8"
       ],
       "INTERACTIVE_NORMAL": [
-          "#489e9d",
-          "#489e9d"
+          "#64b8b8",
+          "#64b8b8"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
@@ -310,12 +310,12 @@
       ]
   },
   "rawColors": {
-      "PRIMARY_100": "#489e9d",
+      "PRIMARY_100": "#64b8b8",
       "PRIMARY_130": "#f1ffff",
       "PRIMARY_200": "#affffe",
-      "PRIMARY_300": "#489e9d",
-      "PRIMARY_360": "#489e9d",
-      "PRIMARY_400": "#489e9d",
+      "PRIMARY_300": "#64b8b8",
+      "PRIMARY_360": "#64b8b8",
+      "PRIMARY_400": "#64b8b8",
       "PRIMARY_500": "#617B7A",
       "PRIMARY_600": "#3bb8ba",
       "PRIMARY_630": "#3bb8ba",
@@ -324,10 +324,10 @@
       "PRIMARY_800": "#248282",
       "PRIMARY_900": "#3bb8ba",
       "BRAND_230": "#ff0000",
-      "BRAND_260": "#489e9d",
+      "BRAND_260": "#64b8b8",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
-      "BRAND_560": "#489e9d",
+      "BRAND_560": "#64b8b8",
       "RED_400": "#3BB8BA",
       "RED_430": "#248282",
       "RED_460": "#248282",
