@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.5c",
+  "name": "Teal Vendetta 1.0.5d",
   "description": "idk.",
 "authors": [
     {
@@ -225,8 +225,8 @@
           "#9cf0f0"
       ],
       "INTERACTIVE_NORMAL": [
-          "#64b8b8",
-          "#9cf0f0"
+          "#006a68",
+          "#489e9d"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
