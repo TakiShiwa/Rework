@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.3c",
+    "name": "Re-Cream Yellow 3.0.3d",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -19,14 +19,14 @@
             "#1d2021"
         ],
         "BACKGROUND_MENTIONED": [
-            "#16191A",
+            "#413D3B",
             "#70665E",
-            "#16191A"
+            "#413D3B"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#16191A",
+            "#413D3B",
             "#665c54",
-            "#16191A"
+            "#413D3B"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#3a4d63",
@@ -59,9 +59,9 @@
             "#9d0006"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#16191A",
+            "#413D3B",
             "#665c54",
-            "#16191A"
+            "#413D3B"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
@@ -265,9 +265,9 @@
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#16191A",
-            "#16191A",
-            "#16191A"
+            "#413D3B",
+            "#413D3B",
+            "#413D3B"
         ],
         "INTERACTIVE_ACTIVE": [
             "#fbf1c7",
@@ -275,9 +275,9 @@
             "#fbf1c7"
         ],
         "INTERACTIVE_HOVER": [
-            "#16191A",
-            "#16191A",
-            "#16191A"
+            "#413D3B",
+            "#413D3B",
+            "#413D3B"
 			
         ],
         "INTERACTIVE_MUTED": [
@@ -301,9 +301,9 @@
             "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#16191A",
+            "#413D3B",
             "#665c54",
-            "#16191A"
+            "#413D3B"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#3C3836",
@@ -311,9 +311,9 @@
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#16191A",
+            "#413D3B",
             "#665c54",
-            "#16191A"
+            "#413D3B"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#3C3836",
