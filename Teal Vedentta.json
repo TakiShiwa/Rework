@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.5d",
+  "name": "Teal Vendetta 1.0.5f",
   "description": "idk.",
 "authors": [
     {
@@ -29,11 +29,11 @@
           "#3a4d63"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#31AEB0",
+          "#489e9d",
           "#affffe"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#31AEB0",
+          "#489e9d",
           "#affffe"
       ],
       "BACKGROUND_ACCENT": [
@@ -41,7 +41,7 @@
           "#248282"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#31AEB0",
+          "#489e9d",
           "#affffe"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
@@ -65,7 +65,7 @@
           "#affffe"
       ],
       "BACKGROUND_SECONDARY": [
-          "#31AEB0",
+          "#489e9d",
           "#ebdbb2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
