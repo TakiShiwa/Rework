@@ -65,7 +65,7 @@
           "#affffe"
       ],
       "BACKGROUND_SECONDARY": [
-          "#3bb8ba",
+          "#31AEB0",
           "#ebdbb2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
@@ -221,8 +221,8 @@
           "#bac2de"
       ],
       "INTERACTIVE_MUTED": [
-          "#64b8b8",
-          "#64b8b8"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "INTERACTIVE_NORMAL": [
           "#64b8b8",
@@ -313,9 +313,9 @@
       "PRIMARY_100": "#ff0000",
       "PRIMARY_130": "#f1ffff",
       "PRIMARY_200": "#affffe",
-      "PRIMARY_300": "#ff0000",
+      "PRIMARY_300": "#64b8b8",
       "PRIMARY_360": "#64b8b8",
-      "PRIMARY_400": "#64b8b8",
+      "PRIMARY_400": "#248282",
       "PRIMARY_500": "#617B7A",
       "PRIMARY_600": "#3bb8ba",
       "PRIMARY_630": "#3bb8ba",
