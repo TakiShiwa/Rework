@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.5e",
+  "name": "Teal Vendetta 1.0.5d",
   "description": "idk.",
 "authors": [
     {
@@ -37,8 +37,8 @@
           "#affffe"
       ],
       "BACKGROUND_ACCENT": [
-          "#489e9d",
-          "#489e9d"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#31AEB0",
@@ -69,11 +69,11 @@
           "#ebdbb2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#489e9d",
+          "#248282",
           "#ebdbb2"
       ],
       "BACKGROUND_TERTIARY": [
-          "#489e9d",
+          "#248282",
           "#f9f5d7"
       ],
       "CHANNELS_DEFAULT": [
@@ -169,7 +169,7 @@
           "#affffe"
       ],
       "INFO_DANGER_FOREGROUND": [
-          "#489e9d",
+          "#248282",
           "#ebdbb2"
       ],
       "INFO_DANGER_TEXT": [
@@ -181,7 +181,7 @@
           "#affffe"
       ],
       "INFO_HELP_FOREGROUND": [
-          "#489e9d",
+          "#248282",
           "#f9f5d7"
       ],
       "INFO_HELP_TEXT": [
@@ -193,7 +193,7 @@
           "#affffe"
       ],
       "INFO_POSITIVE_FOREGROUND": [
-          "#489e9d",
+          "#248282",
           "#f9f5d7"
       ],
       "INFO_POSITIVE_TEXT": [
@@ -205,7 +205,7 @@
           "#affffe"
       ],
       "INFO_WARNING_FOREGROUND": [
-          "#489e9d",
+          "#248282",
           "#f9f5d7"
       ],
       "INFO_WARNING_TEXT": [
@@ -237,7 +237,7 @@
           "#d65d0e5a"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-          "#489e9d",
+          "#248282",
           "#ebdbb2"
       ],
       "SCROLLBAR_THIN_THUMB": [
@@ -245,7 +245,7 @@
           "#d65d0e5a"
       ],
       "SCROLLBAR_THIN_TRACK": [
-          "#489e9d",
+          "#248282",
           "#ebdbb2"
       ],
       "STATUS_DANGER_BACKGROUND": [
@@ -315,13 +315,13 @@
       "PRIMARY_200": "#affffe",
       "PRIMARY_300": "#64b8b8",
       "PRIMARY_360": "#64b8b8",
-      "PRIMARY_400": "#489e9d",
+      "PRIMARY_400": "#248282",
       "PRIMARY_500": "#617B7A",
       "PRIMARY_600": "#3bb8ba",
       "PRIMARY_630": "#3bb8ba",
       "PRIMARY_660": "#248282",
       "PRIMARY_700": "#248282",
-      "PRIMARY_800": "#489e9d",
+      "PRIMARY_800": "#248282",
       "PRIMARY_900": "#3bb8ba",
       "BRAND_230": "#ff0000",
       "BRAND_260": "#64b8b8",
