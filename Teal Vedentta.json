@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.2",
+  "name": "Teal Vendetta 1.0.3",
   "description": "idk.",
 "authors": [
     {
@@ -17,8 +17,8 @@
           "#9cf0f0"
       ],
       "BACKGROUND_MENTIONED": [
-          "#b8bb26",
-          "#79740e"
+          "#b8bb265a",
+          "#79740e5a"
       ],
       "BACKGROUND_MENTIONED_HOVER": [
           "#80d4d2",
@@ -49,8 +49,8 @@
           "#006a68"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#b8bb26",
-          "#d65d0e"
+          "#b8bb265a",
+          "#d65d0e5a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
           "#7c9695",
@@ -65,7 +65,7 @@
           "#affffe"
       ],
       "BACKGROUND_SECONDARY": [
-          "#248282",
+          "#3bb8ba",
           "#ebdbb2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
@@ -81,7 +81,7 @@
           "#7c9695"			
       ],
       "CHANNEL_ICON": [
-          "#334863",
+          "#4b607d",
           "#d3e4ff"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
@@ -233,16 +233,16 @@
           "#076678"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-          "#b8bb26",
-          "#d65d0e"
+          "#b8bb265a",
+          "#d65d0e5a"
       ],
       "SCROLLBAR_AUTO_TRACK": [
           "#248282",
           "#ebdbb2"
       ],
       "SCROLLBAR_THIN_THUMB": [
-          "#b8bb26",
-          "#d65d0e"
+          "#b8bb265a",
+          "#d65d0e5a"
       ],
       "SCROLLBAR_THIN_TRACK": [
           "#248282",
@@ -257,8 +257,8 @@
           "#076678"
       ],
       "STATUS_POSITIVE_BACKGROUND": [
-          "#689d6a",
-          "#427b58"
+          "#689d6a8a",
+          "#427b588a"
       ],
       "STATUS_POSITIVE_TEXT": [
           "#affffe",
@@ -297,8 +297,8 @@
           "#3bb8ba"
       ],
       "TEXT_POSITIVE": [
-          "#689d6a",
-          "#427b58"
+          "#689d6a8a",
+          "#427b588a"
       ],
       "TEXT_WARNING": [
           "#fb4934",
@@ -315,7 +315,7 @@
       "PRIMARY_200": "#affffe",
       "PRIMARY_300": "#7c9695",
       "PRIMARY_360": "#489e9d",
-      "PRIMARY_400": "#85876D",
+      "PRIMARY_400": "#7c9695",
       "PRIMARY_500": "#617B7A",
       "PRIMARY_600": "#3bb8ba",
       "PRIMARY_630": "#3bb8ba",
@@ -325,7 +325,7 @@
       "PRIMARY_900": "#3bb8ba",
       "BRAND_230": "#ff0000",
       "BRAND_260": "#489e9d",
-      "BRAND_360": "#b57614",
+      "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
       "BRAND_560": "#7c9695",
       "RED_400": "#3BB8BA",
