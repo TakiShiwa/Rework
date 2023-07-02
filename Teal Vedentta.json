@@ -1,5 +1,5 @@
 {
-  "name": "Teal Vendetta 1.0.3",
+  "name": "Teal Vendetta 1.0.4",
   "description": "idk.",
 "authors": [
     {
@@ -53,8 +53,8 @@
           "#d65d0e5a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#7c9695",
-          "#7c9695"
+          "#489e9d",
+          "#489e9d"
       ],
       "BACKGROUND_NESTED_FLOATING": [
           "#3bb8ba",
@@ -77,16 +77,16 @@
           "#f9f5d7"
       ],
       "CHANNELS_DEFAULT": [
-          "#7c9695",
-          "#7c9695"			
+          "#489e9d",
+          "#489e9d"			
       ],
       "CHANNEL_ICON": [
           "#4b607d",
           "#d3e4ff"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-          "#7c9695",
-          "#7c9695"
+          "#489e9d",
+          "#489e9d"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#3bb8ba",
@@ -221,12 +221,12 @@
           "#bac2de"
       ],
       "INTERACTIVE_MUTED": [
-          "#7c9695",
-          "#7c9695"
+          "#489e9d",
+          "#489e9d"
       ],
       "INTERACTIVE_NORMAL": [
-          "#7c9695",
-          "#7c9695"
+          "#489e9d",
+          "#489e9d"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
@@ -310,12 +310,12 @@
       ]
   },
   "rawColors": {
-      "PRIMARY_100": "#7c9695",
+      "PRIMARY_100": "#489e9d",
       "PRIMARY_130": "#f1ffff",
       "PRIMARY_200": "#affffe",
-      "PRIMARY_300": "#7c9695",
+      "PRIMARY_300": "#489e9d",
       "PRIMARY_360": "#489e9d",
-      "PRIMARY_400": "#7c9695",
+      "PRIMARY_400": "#489e9d",
       "PRIMARY_500": "#617B7A",
       "PRIMARY_600": "#3bb8ba",
       "PRIMARY_630": "#3bb8ba",
@@ -327,7 +327,7 @@
       "BRAND_260": "#489e9d",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
-      "BRAND_560": "#7c9695",
+      "BRAND_560": "#489e9d",
       "RED_400": "#3BB8BA",
       "RED_430": "#248282",
       "RED_460": "#248282",
