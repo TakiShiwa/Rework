@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5k",
+  "name": "Oled Teal Vendetta 1.0.1",
   "description": "idk.",
 "authors": [
     {
@@ -73,8 +73,8 @@
           "#3bb8ba"
       ],
       "BACKGROUND_TERTIARY": [
-          "#00201f",
-          "#00201f"
+          "#060607",
+          "#060607"
       ],
       "CHANNELS_DEFAULT": [
           "#617b7a",
@@ -89,8 +89,8 @@
           "#80d4d2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#3bb8ba",
-          "#affffe"
+          "#111214",
+          "#111214"
       ],
       "DEPRECATED_CARD_BG": [
           "#3bb8ba",
@@ -117,16 +117,16 @@
           "#affffe"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER": [
-          "#3bb8ba",
-          "#affffe"
+          "#0000004d",
+          "#0000004d"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
           "#3bb8ba",
           "#affffe"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-          "#3bb8ba",
-          "#affffe"
+          "#020202",
+          "#020202"
       ],
       "DEPRECATED_TEXT_INPUT_PREFIX": [
           "#3bb8ba",
@@ -157,7 +157,7 @@
           "#affffe"
       ],
       "HEADER_PRIMARY": [
-          "#affffe",
+          "#3bb8ba",
           "#3bb8ba"
       ],
       "HEADER_SECONDARY": [
@@ -237,8 +237,8 @@
           "#d65d0e5a"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-          "#248282",
-          "#ebdbb2"
+          "#060607",
+          "#060607"
       ],
       "SCROLLBAR_THIN_THUMB": [
           "#b8bb265a",
@@ -269,8 +269,8 @@
           "#affffe"
       ],
       "STATUS_WARNING_TEXT": [
-          "#fb4934",
-          "#9d0006"
+          "#000000",
+          "#000000"
       ],
       "TEXTBOX_MARKDOWN_SYNTAX": [
           "#74c7ec",
@@ -305,8 +305,8 @@
           "#9d0006"
       ],
       "CHAT_BACKGROUND": [
-          "#3bb8ba",
-          "#affffe"
+          "#000000",
+          "#000000"
       ]
   },
   "rawColors": {
@@ -322,12 +322,26 @@
       "PRIMARY_660": "#248282",
       "PRIMARY_700": "#248282",
       "PRIMARY_800": "#00201f",
-      "PRIMARY_900": "#3bb8ba",
+      "PRIMARY_900": "#020202",
+      "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
       "BRAND_230": "#ff0000",
       "BRAND_260": "#617b7a",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#248282",
       "BRAND_560": "#617b7a",
+      "BLACK_500": "#000000",
+      "BLACK_530": "#000000",
+      "BLACK_560": "#000000",
+      "BLACK_600": "#000000",
+      "BLACK_630": "#000000",
+      "BLACK_660": "#000000",
+      "BLACK_700": "#000000",
+      "BLACK_730": "#000000",
+      "BLACK_760": "#000000",
+      "BLACK_800": "#000000",
+      "BLACK_830": "#000000",
+      "BLACK_860": "#000000",
+      "BLACK_900": "#000000",
       "RED_400": "#3BB8BA",
       "RED_430": "#248282",
       "RED_460": "#248282",
