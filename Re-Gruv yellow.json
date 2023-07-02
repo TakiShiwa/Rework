@@ -1,5 +1,5 @@
 {
-    "name": "Re-Cream Yellow 3.0.3k",
+    "name": "Re-Cream Yellow 3.1.5",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -29,9 +29,9 @@
             "#bdae931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3a4d63",
-            "#3a4d63",
-            "#3a4d63"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#282828",
