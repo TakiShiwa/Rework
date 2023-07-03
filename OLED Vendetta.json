@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5",
+  "name": "Oled Teal Vendetta 1.0.5b",
   "description": "idk.",
 "authors": [
     {
@@ -49,8 +49,8 @@
           "#006a68"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#b8bb265a",
-          "#d65d0e5a"
+          "#0038375a",
+          "#0038375a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
           "#248282",
@@ -85,8 +85,8 @@
           "#006a68"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-          "#80d4d2",
-          "#80d4d2"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#111214",
@@ -157,8 +157,8 @@
           "#affffe"
       ],
       "HEADER_PRIMARY": [
-          "#3bb8ba",
-          "#3bb8ba"
+          "#80d4d2",
+          "#80d4d2"
       ],
       "HEADER_SECONDARY": [
           "#64b8b8",
@@ -233,16 +233,16 @@
           "#076678"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-          "#b8bb265a",
-          "#d65d0e5a"
+          "#0038375a",
+          "#0038375a"
       ],
       "SCROLLBAR_AUTO_TRACK": [
           "#060607",
           "#060607"
       ],
       "SCROLLBAR_THIN_THUMB": [
-          "#b8bb265a",
-          "#d65d0e5a"
+          "#0038375a",
+          "#0038375a"
       ],
       "SCROLLBAR_THIN_TRACK": [
           "#248282",
