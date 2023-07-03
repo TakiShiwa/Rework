@@ -1,6 +1,6 @@
 {
-    "name": "Re-Gruv Yellow 3.1.5a",
-    "description": "A creamy yellow theme.",
+    "name": "Re-Gruv Yellow 3.1.5b",
+    "description": "A gruvy yellow theme.",
 	"authors": [
       {
          "name": "Taki_Shiwa",
@@ -39,9 +39,9 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#3c38367a",
-            "#fbf1c77a",
-            "#3c38367a"
+            "#282828",
+            "#fbf1c7",
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#d79921",
@@ -49,9 +49,9 @@
             "#d79921"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#282828",
-            "#fbf1c7",
-            "#000000"
+            "#5049457a",
+            "#d5c4a17a",
+            "#5049457a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3A2C26",
