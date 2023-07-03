@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5zr",
+  "name": "Oled Teal Vendetta 1.0.5zs",
   "description": "idk.",
 "authors": [
     {
@@ -41,8 +41,8 @@
           "#15CFD2"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#000000",
-          "#000000"
+          "#9cf0f07a",
+          "#9cf0f07a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#006a68",
