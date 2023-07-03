@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5o",
+  "name": "Oled Teal Vendetta 1.0.5p",
   "description": "idk.",
 "authors": [
     {
@@ -289,8 +289,8 @@
           "#affffe"
       ],
       "TEXT_MUTED": [
-          "#26A2A9",
-          "#26A2A9"
+          "#37C0BD",
+          "#37C0BD"
       ],
       "TEXT_NORMAL": [
           "#affffe",
@@ -327,7 +327,7 @@
       "BRAND_230": "#003837",
       "BRAND_260": "#3bb8ba",
       "BRAND_360": "#3bb8ba",
-      "BRAND_500": "#3BB8BA",
+      "BRAND_500": "#248282",
       "BRAND_560": "#627796",
       "BLACK_500": "#000000",
       "BLACK_530": "#000000",
