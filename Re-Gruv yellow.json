@@ -1,5 +1,5 @@
 {
-    "name": "Re-Gruv Yellow 3.1.5b",
+    "name": "Re-Gruv Yellow 3.1.5c",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -107,6 +107,11 @@
             "#83a598",
             "#076678",
             "#83a598"
+        ],
+        "CHAT_BACKGROUND": [
+            "#282828",
+            "#fbf1c7",
+            "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#928374",
@@ -317,7 +322,6 @@
             "#3C3836",
             "#ebdbb2",
             "#000000"
-		
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
@@ -388,11 +392,6 @@
             "#fb4934",
             "#9d0006",
             "#cc241d"
-        ],
-        "CHAT_BACKGROUND": [
-            "#282828",
-            "#fbf1c7",
-            "#000000"
         ]
     },
     "rawColors": {
@@ -404,6 +403,7 @@
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
+        "PRIMARY_460": "#3C3836",
         "PRIMARY_500": "#504945",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
