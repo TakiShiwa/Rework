@@ -39,9 +39,9 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#282828",
-            "#fbf1c7",
-            "#000000"
+            "#3c38367a",
+            "#fbf1c77a",
+            "#3c38367a"
         ],
         "BACKGROUND_ACCENT": [
             "#d79921",
