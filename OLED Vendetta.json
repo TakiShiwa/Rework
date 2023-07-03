@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5zj",
+  "name": "Oled Teal Vendetta 1.0.5zk",
   "description": "idk.",
 "authors": [
     {
@@ -159,6 +159,14 @@
       "FOCUS_PRIMARY": [
           "#3bb8ba",
           "#9cf0f0"
+      ],
+      "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+          "#1D1B3Ccc",
+          "#1D1B3Ccc"
+      ],
+      "FORUM_POST_TAG_BACKGROUND": [
+          "#1D1B3Ce6",
+          "#1D1B3Ce6"
       ],
       "GUILD_HEADER_TEXT_SHADOW": [
           "#3bb8ba",
