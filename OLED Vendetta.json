@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5zi",
+  "name": "Oled Teal Vendetta 1.0.5zj",
   "description": "idk.",
 "authors": [
     {
@@ -91,6 +91,14 @@
       "CHANNELTEXTAREA_BACKGROUND": [
           "#111214",
           "#111214"
+      ],
+      "CHAT_BACKGROUND": [
+          "#000000",
+          "#000000"
+      ],
+      "CHAT_BORDER": [
+          "#00201f",
+          "#00201f"
       ],
       "DEPRECATED_CARD_BG": [
           "#3bb8ba40",
@@ -307,10 +315,6 @@
       "TEXT_WARNING": [
           "#fb4934",
           "#9d0006"
-      ],
-      "CHAT_BACKGROUND": [
-          "#000000",
-          "#000000"
       ]
   },
   "rawColors": {
