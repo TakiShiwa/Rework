@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5ze",
+  "name": "Oled Teal Vendetta 1.0.5zf",
   "description": "idk.",
 "authors": [
     {
@@ -325,7 +325,7 @@
       "PRIMARY_800": "#00201f",
       "PRIMARY_900": "#020202",
       "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-      "BRAND_230": "#003837",
+      "BRAND_230": "#489e9d",
       "BRAND_260": "#3bb8ba",
       "BRAND_360": "#3bb8ba",
       "BRAND_500": "#3bb8ba",
