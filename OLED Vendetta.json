@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5h",
+  "name": "Oled Teal Vendetta 1.0.5i",
   "description": "idk.",
 "authors": [
     {
@@ -162,7 +162,7 @@
       ],
       "HEADER_SECONDARY": [
           "#64b8b8",
-          "#7c9695"
+          "#64b8b8"
       ],
       "INFO_DANGER_BACKGROUND": [
           "#3bb8ba",
@@ -170,7 +170,7 @@
       ],
       "INFO_DANGER_FOREGROUND": [
           "#248282",
-          "#ebdbb2"
+          "#248282"
       ],
       "INFO_DANGER_TEXT": [
           "#fb4934",
@@ -182,7 +182,7 @@
       ],
       "INFO_HELP_FOREGROUND": [
           "#248282",
-          "#f9f5d7"
+          "#248282"
       ],
       "INFO_HELP_TEXT": [
           "#affffe",
@@ -194,7 +194,7 @@
       ],
       "INFO_POSITIVE_FOREGROUND": [
           "#248282",
-          "#f9f5d7"
+          "#248282"
       ],
       "INFO_POSITIVE_TEXT": [
           "#affffe",
@@ -206,7 +206,7 @@
       ],
       "INFO_WARNING_FOREGROUND": [
           "#248282",
-          "#f9f5d7"
+          "#248282"
       ],
       "INFO_WARNING_TEXT": [
           "#affffe",
@@ -246,7 +246,7 @@
       ],
       "SCROLLBAR_THIN_TRACK": [
           "#248282",
-          "#ebdbb2"
+          "#248282"
       ],
       "STATUS_DANGER_BACKGROUND": [
           "#fb4934",
@@ -347,7 +347,7 @@
       "RED_460": "#248282",
       "GREEN_360": "#8ec07c",
       "WHITE_500": "#affffe",
-      "YELLOW_300": "#cc241d"
+      "YELLOW_300": "#27A4A6"
   },
   "spec": 2
           }
