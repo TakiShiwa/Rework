@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5c",
+  "name": "Oled Teal Vendetta 1.0.5d",
   "description": "idk.",
 "authors": [
     {
@@ -94,27 +94,27 @@
       ],
       "DEPRECATED_CARD_BG": [
           "#3bb8ba40",
-          "#affffe40"
+          "#9cf0f040"
       ],
       "DEPRECATED_CARD_EDITABLE_BG": [
           "#3bb8ba4d",
-          "#affffe4d"
+          "#9cf0f04d"
       ],
       "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "DEPRECATED_STORE_BG": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "DEPRECATED_TEXT_INPUT_BG": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER": [
           "#0000004d",
@@ -122,7 +122,7 @@
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
           "#020202",
@@ -130,31 +130,31 @@
       ],
       "DEPRECATED_TEXT_INPUT_PREFIX": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "ELEVATION_HIGH": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "ELEVATION_LOW": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "ELEVATION_MEDIUM": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "ELEVATION_STROKE": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "FOCUS_PRIMARY": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "GUILD_HEADER_TEXT_SHADOW": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "HEADER_PRIMARY": [
           "#80d4d2",
@@ -166,7 +166,7 @@
       ],
       "INFO_DANGER_BACKGROUND": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "INFO_DANGER_FOREGROUND": [
           "#248282",
@@ -178,31 +178,31 @@
       ],
       "INFO_HELP_BACKGROUND": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "INFO_HELP_FOREGROUND": [
           "#248282",
           "#f9f5d7"
       ],
       "INFO_HELP_TEXT": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "INFO_POSITIVE_BACKGROUND": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "INFO_POSITIVE_FOREGROUND": [
           "#248282",
           "#f9f5d7"
       ],
       "INFO_POSITIVE_TEXT": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "INFO_WARNING_BACKGROUND": [
           "#3bb8ba",
-          "#affffe"
+          "#9cf0f0"
       ],
       "INFO_WARNING_FOREGROUND": [
           "#248282",
@@ -213,7 +213,7 @@
           "#bac2de"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "INTERACTIVE_HOVER": [
@@ -261,12 +261,12 @@
           "#427b588a"
       ],
       "STATUS_POSITIVE_TEXT": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "STATUS_WARNING_BACKGROUND": [
-          "#affffe",
-          "#affffe"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "STATUS_WARNING_TEXT": [
           "#000000",
@@ -285,15 +285,15 @@
           "#7680C0"
       ],
       "TEXT_LINK_LOW_SATURATION": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "TEXT_MUTED": [
           "#80d4d2",
-          "#affffe"
+          "#9cf0f0"
       ],
       "TEXT_NORMAL": [
-          "#affffe",
+          "#9cf0f0",
           "#3bb8ba"
       ],
       "TEXT_POSITIVE": [
@@ -310,9 +310,9 @@
       ]
   },
   "rawColors": {
-      "PRIMARY_100": "#affffe",
+      "PRIMARY_100": "#9cf0f0",
       "PRIMARY_130": "#f1ffff",
-      "PRIMARY_200": "#affffe",
+      "PRIMARY_200": "#9cf0f0",
       "PRIMARY_300": "#64b8b8",
       "PRIMARY_360": "#64b8b8",
       "PRIMARY_400": "#006a68",
@@ -346,7 +346,7 @@
       "RED_430": "#248282",
       "RED_460": "#248282",
       "GREEN_360": "#8ec07c",
-      "WHITE_500": "#affffe",
+      "WHITE_500": "#9cf0f0",
       "YELLOW_300": "#cc241d"
   },
   "spec": 2
