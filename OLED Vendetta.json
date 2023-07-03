@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5t",
+  "name": "Oled Teal Vendetta 1.0.5u",
   "description": "idk.",
 "authors": [
     {
@@ -21,8 +21,8 @@
           "#0038375a"
       ],
       "BACKGROUND_MENTIONED_HOVER": [
-          "#80d4d2",
-          "#80d4d2"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
           "#3a4d63",
@@ -69,8 +69,8 @@
           "#15CFD2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#248282",
-          "#248282"
+          "#15CFD2",
+          "#15CFD2"
       ],
       "BACKGROUND_TERTIARY": [
           "#060607",
@@ -221,12 +221,12 @@
           "#bac2de"
       ],
       "INTERACTIVE_MUTED": [
-          "#80d4d2",
-          "#80d4d2"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "INTERACTIVE_NORMAL": [
-          "#80d4d2",
-          "#80d4d2"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
