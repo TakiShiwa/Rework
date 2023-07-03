@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5q",
+  "name": "Oled Teal Vendetta 1.0.5r",
   "description": "idk.",
 "authors": [
     {
@@ -316,7 +316,7 @@
       "PRIMARY_300": "#64b8b8",
       "PRIMARY_360": "#64b8b8",
       "PRIMARY_400": "#006a68",
-      "PRIMARY_500": "#affffe",
+      "PRIMARY_500": "#ff0000",
       "PRIMARY_600": "#000000",
       "PRIMARY_630": "#3bb8ba",
       "PRIMARY_660": "#248282",
