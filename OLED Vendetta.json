@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5zo",
+  "name": "Oled Teal Vendetta 1.0.5zp",
   "description": "idk.",
 "authors": [
     {
@@ -133,8 +133,8 @@
           "#9cf0f0"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-          "#020202",
-          "#020202"
+          "#ff0000",
+          "#ff0000"
       ],
       "DEPRECATED_TEXT_INPUT_PREFIX": [
           "#3bb8ba",
