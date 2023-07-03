@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5k",
+  "name": "Oled Teal Vendetta 1.0.5l",
   "description": "idk.",
 "authors": [
     {
@@ -37,8 +37,8 @@
           "#060607"
       ],
       "BACKGROUND_ACCENT": [
-          "#64b8b8",
-          "#64b8b8"
+          "#248282",
+          "#248282"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#000000",
@@ -57,8 +57,8 @@
           "#248282"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#248282",
-          "#248282"
+          "#000000",
+          "#000000"
       ],
       "BACKGROUND_PRIMARY": [
           "#000000",
@@ -181,8 +181,8 @@
           "#9cf0f0"
       ],
       "INFO_HELP_FOREGROUND": [
-          "#248282",
-          "#248282"
+          "#00201f",
+          "#00201f"
       ],
       "INFO_HELP_TEXT": [
           "#affffe",
@@ -193,8 +193,8 @@
           "#9cf0f0"
       ],
       "INFO_POSITIVE_FOREGROUND": [
-          "#248282",
-          "#248282"
+          "#00201f",
+          "#00201f"
       ],
       "INFO_POSITIVE_TEXT": [
           "#affffe",
@@ -205,8 +205,8 @@
           "#9cf0f0"
       ],
       "INFO_WARNING_FOREGROUND": [
-          "#248282",
-          "#248282"
+          "#000000",
+          "#000000"
       ],
       "INFO_WARNING_TEXT": [
           "#affffe",
@@ -245,8 +245,8 @@
           "#0038375a"
       ],
       "SCROLLBAR_THIN_TRACK": [
-          "#248282",
-          "#248282"
+          "#000000",
+          "#000000"
       ],
       "STATUS_DANGER_BACKGROUND": [
           "#fb4934",
@@ -327,7 +327,7 @@
       "BRAND_230": "#003837",
       "BRAND_260": "#3bb8ba",
       "BRAND_360": "#3bb8ba",
-      "BRAND_500": "#248282",
+      "BRAND_500": "#3BB8BA",
       "BRAND_560": "#627796",
       "BLACK_500": "#000000",
       "BLACK_530": "#000000",
