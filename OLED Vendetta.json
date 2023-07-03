@@ -109,8 +109,8 @@
           "#9cf0f0"
       ],
       "DEPRECATED_STORE_BG": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "DEPRECATED_TEXT_INPUT_BG": [
           "#3bb8ba",
@@ -157,8 +157,8 @@
           "#9cf0f0"
       ],
       "HEADER_PRIMARY": [
-          "#80d4d2",
-          "#80d4d2"
+          "#affffe",
+          "#affffe"
       ],
       "HEADER_SECONDARY": [
           "#64b8b8",
@@ -185,8 +185,8 @@
           "#f9f5d7"
       ],
       "INFO_HELP_TEXT": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "INFO_POSITIVE_BACKGROUND": [
           "#3bb8ba",
@@ -197,8 +197,8 @@
           "#f9f5d7"
       ],
       "INFO_POSITIVE_TEXT": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "INFO_WARNING_BACKGROUND": [
           "#3bb8ba",
@@ -209,24 +209,24 @@
           "#f9f5d7"
       ],
       "INFO_WARNING_TEXT": [
-          "#bac2de",
-          "#bac2de"
+          "#affffe",
+          "#affffe"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "INTERACTIVE_HOVER": [
           "#bac2de",
           "#bac2de"
       ],
       "INTERACTIVE_MUTED": [
-          "#64b8b8",
-          "#64b8b8"
+          "#80d4d2",
+          "#80d4d2"
       ],
       "INTERACTIVE_NORMAL": [
-          "#9cf0f0",
-          "#9cf0f0"
+          "#80d4d2",
+          "#80d4d2"
       ],
       "LOGO_PRIMARY": [
           "#83a598",
@@ -261,8 +261,8 @@
           "#427b588a"
       ],
       "STATUS_POSITIVE_TEXT": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "STATUS_WARNING_BACKGROUND": [
           "#9cf0f0",
@@ -285,16 +285,16 @@
           "#7680C0"
       ],
       "TEXT_LINK_LOW_SATURATION": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "TEXT_MUTED": [
-          "#64b8b8",
-          "#64b8b8"
+          "#248282",
+          "#248282"
       ],
       "TEXT_NORMAL": [
-          "#9cf0f0",
-          "#3bb8ba"
+          "#affffe",
+          "#affffe"
       ],
       "TEXT_POSITIVE": [
           "#689d6a8a",
@@ -316,7 +316,7 @@
       "PRIMARY_300": "#64b8b8",
       "PRIMARY_360": "#64b8b8",
       "PRIMARY_400": "#006a68",
-      "PRIMARY_500": "#617B7A",
+      "PRIMARY_500": "#affffe",
       "PRIMARY_600": "#000000",
       "PRIMARY_630": "#3bb8ba",
       "PRIMARY_660": "#248282",
@@ -346,7 +346,7 @@
       "RED_430": "#248282",
       "RED_460": "#248282",
       "GREEN_360": "#8ec07c",
-      "WHITE_500": "#9cf0f0",
+      "WHITE_500": "#affffe",
       "YELLOW_300": "#cc241d"
   },
   "spec": 2
