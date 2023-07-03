@@ -1,5 +1,5 @@
 {
-  "name": "Oled Teal Vendetta 1.0.5x",
+  "name": "Oled Teal Vendetta 1.0.5y",
   "description": "idk.",
 "authors": [
     {
@@ -289,8 +289,8 @@
           "#affffe"
       ],
       "TEXT_MUTED": [
-          "#489e9d",
-          "#489e9d"
+          "#9cf0f0",
+          "#9cf0f0"
       ],
       "TEXT_NORMAL": [
           "#affffe",
