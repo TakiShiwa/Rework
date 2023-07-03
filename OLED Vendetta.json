@@ -125,8 +125,8 @@
           "#9cf0f0"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER": [
-          "#0000004d",
-          "#0000004d"
+          "#ff00004d",
+          "#ff00004d"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
           "#3bb8ba",
