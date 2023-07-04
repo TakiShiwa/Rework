@@ -1,5 +1,5 @@
 {
-    "name": "Vendetta Teal (beta) 1.1.4h",
+    "name": "Vendetta Teal (beta) 1.1.4g",
     "description": "An Amoled theme based on Vendetta Teal color.",
   "authors": [
       {
@@ -285,8 +285,8 @@
             "#076678"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#3bb8ba",
-            "#3bb8ba"
+            "#689d6a8a",
+            "#427b588a"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#affffe",
@@ -325,8 +325,8 @@
             "#affffe"
         ],
         "TEXT_POSITIVE": [
-            "#689d6a8a",
-            "#427b588a"
+            "#3bb8ba",
+            "#3bb8ba"
         ],
         "TEXT_WARNING": [
             "#fb4934",
