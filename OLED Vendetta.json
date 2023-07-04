@@ -53,8 +53,8 @@
           "#0038375a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#15CFD2",
-          "#15CFD2"
+          "#15CFD26a",
+          "#15CFD26a"
       ],
       "BACKGROUND_NESTED_FLOATING": [
           "#000000",
@@ -349,7 +349,7 @@
       "PRIMARY_500": "#affffe",
       "PRIMARY_600": "#000000",
       "PRIMARY_630": "#00201f",
-      "PRIMARY_660": "#15CFD2",
+      "PRIMARY_660": "#15CFD24a",
       "PRIMARY_700": "#00201f",
       "PRIMARY_800": "#00201f",
       "PRIMARY_900": "#020202",
