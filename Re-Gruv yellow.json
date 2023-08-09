@@ -1,5 +1,5 @@
 {
-    "name": "Re-Gruv Yellow 3.1.5",
+    "name": "Gruv Yellow 3.2.0 (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -54,14 +54,14 @@
             "#5049457a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3A2C26",
-            "#3A2C26",
-            "#9d0006"
+            "#d5c4a126",
+            "#3c383626",
+            "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3c3836",
-            "#3c3836",
-            "#3c3836"
+            "#d5c4a126",
+            "#3c383626",
+            "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
@@ -114,9 +114,9 @@
             "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#d5c4a1",
-            "#504945",
-            "#d5c4a1"
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
@@ -284,14 +284,14 @@
             "#3c3836"
         ],
         "INTERACTIVE_MUTED": [
-            "#928374",
-            "#928374",
-            "#928374"
+            "#a89984",
+            "#665c54",
+            "#a89984"
         ],
         "INTERACTIVE_NORMAL": [
-            "#d5c4a1",
-            "#504945",
-            "#d5c4a1"
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
@@ -300,7 +300,12 @@
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#282828",
-			"#ebdbb2",
+            "#ebdbb2",
+            "#000000"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#3c3836",
+            "#ebdbb2",
             "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
@@ -364,9 +369,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0",
-            "#A8B2F2"
+            "#8ec07c",
+            "#427b58",
+            "#689d6a"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#fbf1c7",
@@ -374,9 +379,9 @@
             "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#d5c4a1",
-            "#504945",
-            "#d5c4a1"
+            "#7c6f64",
+            "#a89984",
+            "#7c6f64"
         ],
         "TEXT_NORMAL": [
             "#fbf1c7",
