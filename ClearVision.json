@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision",
+    "name": "ClearVision 1.0.1",
     "description": "Test",
 	"authors": [
       {
@@ -442,7 +442,7 @@
         "YELLOW_300": "#d65d0e"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1088021857690714122/kitty.png",
+        "url": "https://cdn.discordapp.com/attachments/1121010615264215170/1138865560239734925/bDNKVhJh.png",
         "alpha": 0.6
     },
     "plus": {
