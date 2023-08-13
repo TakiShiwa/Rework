@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3r(beta)",
+    "name": "ClearVision 1.0.3s(beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -99,9 +99,9 @@
             "#000000"
         ],			
         "CHANNELS_DEFAULT": [
-            "#4e515e",
-            "#4e515e",
-            "#4e515e"			
+            "#575a68",
+            "#575a68",
+            "#575a68"			
         ],
         "CHANNEL_ICON": [
             "#2780E64d",
@@ -289,9 +289,9 @@
             "#061428"
         ],
         "INTERACTIVE_MUTED": [
-            "#72767D",
-            "#72767D",
-            "#72767D"
+            "#474a55",
+            "#474a55",
+            "#474a55"
         ],
         "INTERACTIVE_NORMAL": [
             "#81b6ef",
