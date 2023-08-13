@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.2",
+    "name": "ClearVision 1.0.3 (test)",
     "description": "Test",
 	"authors": [
       {
@@ -34,9 +34,9 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#282828",
-            "#fbf1c7",
-            "#000000"
+            "#102b47",
+            "#102b47",
+            "#102b47"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#061428",
@@ -74,8 +74,8 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#282828",
-            "#fbf1c7",
+            "#000000",
+            "#000000",
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
@@ -99,9 +99,9 @@
             "#000000"
         ],			
         "CHANNELS_DEFAULT": [
-            "#928374",
-            "#928374",
-            "#928374"			
+            "#dcddde",
+            "#dcddde",
+            "#dcddde"			
         ],
         "CHANNEL_ICON": [
             "#2780E64d",
@@ -109,9 +109,9 @@
             "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
-            "#282828",
-            "#fbf1c7",
-            "#000000"
+            "#00000099",
+            "#00000099",
+            "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#bdae93",
@@ -369,9 +369,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#8ec07c",
-            "#427b58",
-            "#689d6a"
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#fbf1c7",
@@ -379,14 +379,14 @@
             "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#7c6f64",
-            "#a89984",
-            "#7c6f64"
+            "#72767d",
+            "#72767d",
+            "#72767d"
         ],
         "TEXT_NORMAL": [
-            "#fbf1c7",
-            "#282828",
-            "#ebdbb2"
+            "#dcddde",
+            "#dcddde",
+            "#dcddde"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -410,10 +410,10 @@
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#3C3836",
         "PRIMARY_500": "#504945",
-        "PRIMARY_600": "#282828",
+        "PRIMARY_600": "#000000",
         "PRIMARY_630": "#3C3836",
         "PRIMARY_660": "#3C3836",
-        "PRIMARY_700": "#3C3836",
+        "PRIMARY_700": "#000000",
         "PRIMARY_800": "#1d2021",
         "PRIMARY_900": "#282828",
         "BLACK_500": "#000000",
@@ -442,7 +442,7 @@
         "YELLOW_300": "#d65d0e"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121010615264215170/1138865560239734925/bDNKVhJh.png",
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg",
         "alpha": 0.6
     },
     "plus": {
