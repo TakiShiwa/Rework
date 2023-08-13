@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3c (beta)",
+    "name": "ClearVision 1.0.3d (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -407,7 +407,7 @@
         "PRIMARY_230": "#ebdbb2",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#2780E6",
-        "PRIMARY_400": "#85876D",
+        "PRIMARY_400": "#c6c8c9",
         "PRIMARY_460": "#3C3836",
         "PRIMARY_500": "#504945",
         "PRIMARY_600": "#061428",
@@ -431,7 +431,7 @@
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
         "BRAND_260": "#2780E6",
-        "BRAND_360": "#b57614",
+        "BRAND_360": "#1a73da",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#928374",
         "RED_400": "#2780E6",
@@ -443,7 +443,7 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg",
-        "alpha": 0.7
+        "alpha": 0.8
     },
     "plus": {
         "version": 0,
