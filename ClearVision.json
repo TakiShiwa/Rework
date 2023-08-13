@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3b (beta)",
+    "name": "ClearVision 1.0.3c (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -14,9 +14,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#3c3836",
-            "#ebdbb2",
-            "#1d2021"
+            "#102b47",
+            "#102b47",
+            "#102b47"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -34,9 +34,9 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#061428",
@@ -74,9 +74,9 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000",
-            "#000000",
-            "#000000"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "BACKGROUND_SECONDARY": [
             "#242437",
@@ -413,7 +413,7 @@
         "PRIMARY_600": "#061428",
         "PRIMARY_630": "#3C3836",
         "PRIMARY_660": "#3C3836",
-        "PRIMARY_700": "#000000",
+        "PRIMARY_700": "#061428",
         "PRIMARY_800": "#000000",
         "PRIMARY_900": "#282828",
         "BLACK_500": "#000000",
@@ -443,7 +443,7 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg",
-        "alpha": 0.6
+        "alpha": 0.7
     },
     "plus": {
         "version": 0,
