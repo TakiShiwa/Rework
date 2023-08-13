@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3 (test)",
+    "name": "ClearVision 1.0.3a (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -84,9 +84,9 @@
             "#242437"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3C3836",
-            "#ebdbb2",
-            "#1d2021"
+            "#242437",
+            "#242437",
+            "#242437"
         ],
         "BACKGROUND_TERTIARY": [
             "#04122e",
@@ -114,9 +114,9 @@
             "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#bdae93",
-            "#665c54",
-            "#bdae93"
+            "#2678d6",
+            "#2678d6",
+            "#2678d6"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
@@ -210,7 +210,7 @@
         ],
         "HEADER_SECONDARY": [
             "#2780E6",
-            "#b57614",
+            "#2780E6",
             "#2780E6"
         ],
         "INFO_DANGER_BACKGROUND": [
@@ -379,9 +379,9 @@
             "#fbf1c7"
         ],
         "TEXT_MUTED": [
-            "#72767d",
-            "#72767d",
-            "#72767d"
+            "#2678d6",
+            "#2678d6",
+            "#2678d6"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
@@ -414,7 +414,7 @@
         "PRIMARY_630": "#3C3836",
         "PRIMARY_660": "#3C3836",
         "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#1d2021",
+        "PRIMARY_800": "#000000",
         "PRIMARY_900": "#282828",
         "BLACK_500": "#000000",
         "BLACK_530": "#000000",
@@ -432,11 +432,11 @@
         "BRAND_230": "#ff0000",
         "BRAND_260": "#2780E6",
         "BRAND_360": "#b57614",
-        "BRAND_500": "#d79921",
+        "BRAND_500": "#2780E6",
         "BRAND_560": "#928374",
-        "RED_400": "#d79921",
-        "RED_430": "#d79921",
-        "RED_460": "#d79921",
+        "RED_400": "#2780E6",
+        "RED_430": "#2780E6",
+        "RED_460": "#2780E6",
         "GREEN_360": "#689d6a",
         "WHITE_500": "#fbf1c7",
         "YELLOW_300": "#d65d0e"
