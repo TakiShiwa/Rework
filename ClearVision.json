@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3h (beta)",
+    "name": "ClearVision 1.0.3i (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#2780E680",
-            "#2780E680",
-            "#2780E680"
+            "#2780E6BF",
+            "#2780E6BF",
+            "#2780E6BF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
