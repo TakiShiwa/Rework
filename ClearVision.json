@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3f (beta)",
+    "name": "ClearVision 1.0.3g (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -274,6 +274,8 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
+            "#102b47",
+            "#102b47",
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
@@ -292,9 +294,9 @@
             "#72767D"
         ],
         "INTERACTIVE_NORMAL": [
-            "#2780e6",
-            "#2780e6",
-            "#2780e6"
+            "#81b6ef",
+            "#81b6ef",
+            "#81b6ef"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
