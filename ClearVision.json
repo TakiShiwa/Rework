@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3k (beta)",
+    "name": "ClearVision 1.0.3l (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -279,9 +279,9 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4b96e7",
-            "#4b96e7",
-            "#4b96e7"
+            "#5da1e9",
+            "#5da1e9",
+            "#5da1e9"
         ],
         "INTERACTIVE_HOVER": [
             "#061428",
@@ -412,7 +412,7 @@
         "PRIMARY_230": "#7eb3f0",
         "PRIMARY_300": "#3789E6",
         "PRIMARY_360": "#2780E6",
-        "PRIMARY_400": "#a4a6a9",
+        "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
         "PRIMARY_600": "#061428",
