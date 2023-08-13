@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3a (beta)",
+    "name": "ClearVision 1.0.3b (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -64,13 +64,13 @@
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#2678d680",
+            "#2678d680",
+            "#2678d680"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
@@ -84,9 +84,9 @@
             "#242437"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#242437",
-            "#242437",
-            "#242437"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#04122e",
@@ -95,7 +95,7 @@
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],			
         "CHANNELS_DEFAULT": [
@@ -120,93 +120,93 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_CARD_BG": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_STORE_BG": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "DEPRECATED_TEXT_INPUT_PREFIX": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "ELEVATION_HIGH": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "ELEVATION_LOW": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "ELEVATION_MEDIUM": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "ELEVATION_STROKE": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "FOCUS_PRIMARY": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "HEADER_SECONDARY": [
             "#2780E6",
@@ -215,7 +215,7 @@
         ],
         "INFO_DANGER_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#1d2021"
         ],
         "INFO_DANGER_FOREGROUND": [
@@ -230,7 +230,7 @@
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "INFO_HELP_FOREGROUND": [
@@ -239,13 +239,13 @@
             "#000000"
         ],
         "INFO_HELP_TEXT": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
             "#ebdbb2"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "INFO_POSITIVE_FOREGROUND": [
@@ -254,13 +254,13 @@
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#282828",
-            "#fbf1c7",
+            "#dcddde",
             "#000000"
         ],
         "INFO_WARNING_FOREGROUND": [
@@ -269,9 +269,9 @@
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "INTERACTIVE_ACTIVE": [
             "#2780e6",
@@ -344,9 +344,9 @@
             "#689d6a"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#fab387",
@@ -374,9 +374,9 @@
             "#2780E6"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#fbf1c7",
+            "#dcddde",
             "#282828",
-            "#fbf1c7"
+            "#dcddde"
         ],
         "TEXT_MUTED": [
             "#2678d6",
@@ -410,7 +410,7 @@
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#3C3836",
         "PRIMARY_500": "#504945",
-        "PRIMARY_600": "#000000",
+        "PRIMARY_600": "#061428",
         "PRIMARY_630": "#3C3836",
         "PRIMARY_660": "#3C3836",
         "PRIMARY_700": "#000000",
@@ -438,7 +438,7 @@
         "RED_430": "#2780E6",
         "RED_460": "#2780E6",
         "GREEN_360": "#689d6a",
-        "WHITE_500": "#fbf1c7",
+        "WHITE_500": "#dcddde",
         "YELLOW_300": "#d65d0e"
     },
     "background": {
