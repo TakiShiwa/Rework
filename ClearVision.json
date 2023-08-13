@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3i (beta)",
+    "name": "ClearVision 1.0.3j (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#2780E6BF",
-            "#2780E6BF",
-            "#2780E6BF"
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
@@ -279,9 +279,9 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#2780e6",
-            "#2780e6",
-            "#2780e6"
+            "#c9e0f8",
+            "#c9e0f8",
+            "#c9e0f8"
         ],
         "INTERACTIVE_HOVER": [
             "#061428",
