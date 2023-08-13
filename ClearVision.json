@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.0.3d (beta)",
+    "name": "ClearVision 1.0.3e (beta)",
     "description": "Test",
 	"authors": [
       {
@@ -50,18 +50,18 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#5049457a",
-            "#d5c4a17a",
+            "#2678d67a",
             "#5049457a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#d5c4a126",
-            "#3c383626",
-            "#d5c4a126"
+            "#2678d626",
+            "#06142826",
+            "#2678d626"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#d5c4a126",
-            "#3c383626",
-            "#d5c4a126"
+            "#2678d626",
+            "#06142826",
+            "#2678d626"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2678d680",
@@ -219,8 +219,8 @@
             "#1d2021"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#3c3836",
-            "#ebdbb2",
+            "#061428",
+            "#7eb3f0",
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
@@ -241,7 +241,7 @@
         "INFO_HELP_TEXT": [
             "#dcddde",
             "#282828",
-            "#ebdbb2"
+            "#7eb3f0"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
@@ -273,15 +273,18 @@
             "#282828",
             "#dcddde"
         ],
+        "INPUT_BACKGROUND": [
+            "#102b47"
+        ],
         "INTERACTIVE_ACTIVE": [
             "#2780e6",
             "#2780e6",
             "#2780e6"
         ],
         "INTERACTIVE_HOVER": [
-            "#3c3836",
+            "#061428",
             "#665c54",
-            "#3c3836"
+            "#061428"
         ],
         "INTERACTIVE_MUTED": [
             "#72767D",
@@ -300,32 +303,32 @@
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#282828",
-            "#ebdbb2",
+            "#7eb3f0",
             "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#3c3836",
-            "#ebdbb2",
+            "#102b47",
+            "#7eb3f0",
             "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#3c3836",
-            "#3c3836",
-            "#3c3836"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#3C3836",
-            "#ebdbb2",
+            "#061428",
+            "#7eb3f0",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#3c3836",
-            "#3c3836",
-            "#3c3836"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#3C3836",
-            "#ebdbb2",
+            "#061428",
+            "#7eb3f0",
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
@@ -403,16 +406,16 @@
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
-        "PRIMARY_200": "#ebdbb2",
-        "PRIMARY_230": "#ebdbb2",
+        "PRIMARY_200": "#7eb3f0",
+        "PRIMARY_230": "#7eb3f0",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#2780E6",
-        "PRIMARY_400": "#c6c8c9",
-        "PRIMARY_460": "#3C3836",
+        "PRIMARY_400": "#a4a6a9",
+        "PRIMARY_460": "#061428",
         "PRIMARY_500": "#504945",
         "PRIMARY_600": "#061428",
-        "PRIMARY_630": "#3C3836",
-        "PRIMARY_660": "#3C3836",
+        "PRIMARY_630": "#061428",
+        "PRIMARY_660": "#061428",
         "PRIMARY_700": "#061428",
         "PRIMARY_800": "#000000",
         "PRIMARY_900": "#282828",
@@ -431,7 +434,7 @@
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
         "BRAND_260": "#2780E6",
-        "BRAND_360": "#1a73da",
+        "BRAND_360": "#1560b5",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#928374",
         "RED_400": "#2780E6",
@@ -443,7 +446,7 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg",
-        "alpha": 0.8
+        "alpha": 1.0
     },
     "plus": {
         "version": 0,
