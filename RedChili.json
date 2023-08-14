@@ -1,5 +1,5 @@
 {
-    "name": "RedChili 1.0.6",
+    "name": "RedChilli 1.0.2",
     "description": "idk.",
   "authors": [
       {
@@ -25,8 +25,8 @@
             "#551e1980"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ab615880",
-            "#ab615880"
+            "#551e1980",
+            "#551e1980"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3b0a06",
@@ -41,20 +41,20 @@
             "#715a2e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#89734291",
-            "#89734291"
+            "#8973429a",
+            "#8973429a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#ab6158",
             "#ab6158"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#551e1952",
-            "#551e1952"
+            "#551e195a",
+            "#551e195a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#897342",
-            "#897342"
+            "#8973426a",
+            "#8973426a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#3b0a06",
@@ -385,12 +385,12 @@
         "BLACK_830": "#3b0a06",
         "BLACK_860": "#3b0a06",
         "BLACK_900": "#3b0a06",
-        "RED_400": " #fb4934",
-        "RED_430": " #897342",
-        "RED_460": " #897342",
+        "RED_400": "#fb4934",
+        "RED_430": "#897342",
+        "RED_460": "#897342",
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
-        "YELLOW_300": "#cb7b70"
+        "YELLOW_300": "#84726e"
     },
     "plus": {
         "version": 0,
@@ -398,7 +398,7 @@
         "icons": {
             "ic_mic_neutral": "#ab6158",
             "ic_mic_muted_neutral": "#ab6158",
-            "ic_soundboard": "#ab6158",
+            "ic_soundboard":"#ab6158",
             "ic_soundboard_muted": "#ab6158",
             "ic_video": "#ab6158",
             "ic_video_disabled": "#ab6158"
