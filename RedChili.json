@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli 1.0.2g ",
+    "name": "RedChilli 1.0.2h ",
     "description": "idk.",
   "authors": [
       {
@@ -382,7 +382,7 @@
         "RED_460": "#897342",
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
-        "YELLOW_300": "#f9b310"
+        "YELLOW_300": "#d7992173"
     },
     "plus": {
         "version": 0,
