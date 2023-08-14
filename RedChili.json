@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli 1.0.2b ",
+    "name": "RedChilli 1.0.2c ",
     "description": "idk.",
   "authors": [
       {
@@ -17,16 +17,16 @@
             "#551e19"
         ],
         "BACKGROUND_MENTIONED": [
-            "#551e1980",
-            "#551e1980"
+            "#ffdad41A",
+            "#ffdad41A"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#551e1980",
-            "#551e1980"
+            "#ffdad41A",
+            "#ffdad41A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#551e1980",
-            "#551e1980"
+            "#ffdad41A",
+            "#ffdad41A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3b0a06",
@@ -269,8 +269,8 @@
             "#42110E"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#551e195a",
-            "#551e195a"
+            "#551e19",
+            "#551e19"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#551e19",
