@@ -1,5 +1,5 @@
 {
-    "name": "RedChili 1.0.4",
+    "name": "RedChili 1.0.5",
     "description": "idk.",
   "authors": [
       {
@@ -13,7 +13,7 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#551e19",
+            "#fbf1c7",
             "#551e19"
         ],
         "BACKGROUND_MENTIONED": [
@@ -53,8 +53,8 @@
             "#551e1952"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8973426a",
-            "#8973426a"
+            "#8973426B",
+            "#8973426B"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#3b0a06",
