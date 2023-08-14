@@ -1,5 +1,5 @@
 {
-    "name": "RedChili 1.0.3",
+    "name": "RedChili 1.0.4",
     "description": "idk.",
   "authors": [
       {
@@ -41,16 +41,16 @@
             "#715a2e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#8973429a",
-            "#8973429a"
+            "#89734291",
+            "#89734291"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#ab6158",
             "#ab6158"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#551e195a",
-            "#551e195a"
+            "#551e1952",
+            "#551e1952"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#8973426a",
