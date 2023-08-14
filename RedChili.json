@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli 1.0.2d ",
+    "name": "RedChilli 1.0.2e ",
     "description": "idk.",
   "authors": [
       {
@@ -49,8 +49,8 @@
             "#ab6158"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#551e195a",
-            "#551e195a"
+            "#ab615826",
+            "#ab615826"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#8973426a",
