@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli",
+    "name": "RedChili 1.1.0",
     "description": "idk.",
   "authors": [
       {
@@ -391,6 +391,19 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#84726e"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#ab6158",
+            "ic_mic_muted_neutral": "#ab6158",
+            "ic_soundboard":"#ab6158",
+            "ic_soundboard_muted": "#ab6158",
+            "ic_video": "#ab6158",
+            "ic_video_disabled": "#ab6158"
+        },
+        "iconpack":"m3-materialyou"
     },
     "spec": 2
             }
