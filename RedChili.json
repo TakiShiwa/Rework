@@ -1,5 +1,5 @@
 {
-    "name": "RedChili 1.1.0",
+    "name": "RedChilli 1.0.2",
     "description": "idk.",
   "authors": [
       {
@@ -17,16 +17,16 @@
             "#551e19"
         ],
         "BACKGROUND_MENTIONED": [
-            "#551e195a",
-            "#551e195a"
+            "#551e1980",
+            "#551e1980"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#551e195a",
-            "#551e195a"
+            "#551e1980",
+            "#551e1980"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#551e195a",
-            "#551e195a"
+            "#551e1980",
+            "#551e1980"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3b0a06",
@@ -403,7 +403,7 @@
             "ic_video": "#ab6158",
             "ic_video_disabled": "#ab6158"
         },
-        "iconpack":"m3-materialyou"
+        "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
             }
