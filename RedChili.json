@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli 1.0.2",
+    "name": "RedChili 1.0.3",
     "description": "idk.",
   "authors": [
       {
@@ -25,8 +25,8 @@
             "#551e1980"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#551e1980",
-            "#551e1980"
+            "#ab615880",
+            "#ab615880"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3b0a06",
