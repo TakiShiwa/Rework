@@ -1,5 +1,5 @@
 {
-    "name": "RedChilli 1.0.2c ",
+    "name": "RedChilli 1.0.2d ",
     "description": "idk.",
   "authors": [
       {
@@ -143,10 +143,6 @@
         "DEPRECATED_TEXT_INPUT_PREFIX": [
             "#fb4934",
             "#ffdad4"
-        ],
-        "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
-            "#551e1980",
-            "#551e1980"
         ],
         "ELEVATION_HIGH": [
             "#fb4934",
@@ -343,10 +339,6 @@
         "TEXT_WARNING": [
             "#fb4934",
             "#9d0006"
-        ],
-        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#551e1980",
-            "#551e1980"
         ]
 
     },
