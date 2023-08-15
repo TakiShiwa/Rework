@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.1a (beta)",
+    "name": "ClearVision 1.2.1b (beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -435,7 +435,7 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
-        "BRAND_260": "#86b4ea",
+        "BRAND_260": "#86b4eaBF",
         "BRAND_360": "#4b96e7",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#3789E6",
