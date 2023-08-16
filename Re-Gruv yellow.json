@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.1(beta)",
+    "name": "Gruv Yellow 3.3.1a (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -451,7 +451,7 @@
             "ic_soundboard_muted": "#85876D",
             "ic_video": "#85876D",
             "ic_video_disabled": "#85876D",
-            "ic_emoji_picker": "#85876D"
+            "ic_emoji_picker_20px": "#85876D"
         },
         "iconpack":"rosiecord-iconsax"
     },
