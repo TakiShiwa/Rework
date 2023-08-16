@@ -39,14 +39,14 @@
             "#061428"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#04122e",
+            "#061428",
             "#061428",
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#65a0e5",
-            "#65a0e5",
-            "#65a0e5"
+            "#86b4ea",
+            "#86b4ea",
+            "#86b4ea"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
@@ -74,7 +74,7 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#04122e",
+            "#061428",
             "#061428",
             "#061428"
         ],
@@ -89,7 +89,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#061428",
+            "#04122e",
             "#04122e",
             "#04122e"
         ],
@@ -415,7 +415,7 @@
         "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
-        "PRIMARY_600": "#04122e",
+        "PRIMARY_600": "#06142800",
         "PRIMARY_630": "#061428",
         "PRIMARY_660": "#061428",
         "PRIMARY_700": "#061428",
@@ -435,7 +435,7 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
-        "BRAND_260": "#65a0e5",
+        "BRAND_260": "#86b4ea",
         "BRAND_360": "#4b96e7",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#3789E6",
@@ -461,7 +461,7 @@
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
         },
-        "iconpack":"rosiecord-plumpy"
+        "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
             }
