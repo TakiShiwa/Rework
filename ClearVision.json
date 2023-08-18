@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.3b (beta)",
+    "name": "ClearVision 1.2.3c (beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -447,7 +447,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142036406798123048/WPh7qA0x.jpg"
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
     },
     "plus": {
         "version": 0,
