@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.1c (beta)",
+    "name": "ClearVision 1.2.1(beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -460,7 +460,7 @@
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
         },
-        "iconpack":"rosiecord-iconsax"
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
