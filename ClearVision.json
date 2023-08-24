@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.3d (beta)",
+    "name": "ClearVision 1.2.3e (beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -13,6 +13,9 @@
             "#9d0006",
             "#fb4934"
         ],
+        "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
+	    "#FF0000"
+	],
         "BACKGROUND_FLOATING": [
             "#102b47",
             "#102b47",
