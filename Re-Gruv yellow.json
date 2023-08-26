@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3a (beta)",
+    "name": "Gruv Yellow 3.3.3b (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -442,6 +442,7 @@
         "BRAND_230": "#ff0000",
         "BRAND_260": "#fabd2f",
         "BRAND_360": "#b57614",
+        "BRAND_430": "#b57614",
         "BRAND_500": "#d79921",
         "BRAND_560": "#928374",
         "RED_400": "#d79921",
