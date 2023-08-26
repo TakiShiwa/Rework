@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3c (beta)",
+    "name": "Gruv Yellow 3.3.3d (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -284,6 +284,11 @@
             "#3c3836"
         ],
         "INTERACTIVE_MUTED": [
+            "#928374",
+            "#665c54",
+            "#928374"
+        ],
+        "ICON_MUTED": [
             "#928374",
             "#665c54",
             "#928374"
