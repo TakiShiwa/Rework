@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3d (beta)",
+    "name": "Gruv Yellow 3.3.3e (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -322,6 +322,16 @@
             "#3c3836",
             "#ebdbb2",
             "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#3c3836",
