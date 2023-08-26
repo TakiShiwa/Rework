@@ -1,6 +1,6 @@
 {
-    "name": "Scarlet Love 1.0.3 ",
-    "description": "idk.",
+    "name": "Scarlet Love 1.0.4a (beta) ",
+    "description": "Shades of Red, Shades of Love: Enter Scarlet's Embrace.",
   "authors": [
       {
          "name": "Taki_Shiwa",
@@ -264,6 +264,10 @@
             "#42110E",
             "#42110E"
         ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+            "#42110d",
+            "#42110d"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#551e19",
             "#551e19"
@@ -346,6 +350,7 @@
         "PRIMARY_100": "#ffdad4",
         "PRIMARY_130": "#f1ffff",
         "PRIMARY_200": "#ffdad4",
+        "PRIMARY_230": "#ffdad4",
         "PRIMARY_300": "#cb7b70",
         "PRIMARY_360": "#cb7b70",
         "PRIMARY_400": "#ab6158",
