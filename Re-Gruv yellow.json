@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3e (beta)",
+    "name": "Gruv Yellow 3.3.3f (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -16,7 +16,7 @@
         "BACKGROUND_FLOATING": [
             "#3c3836",
             "#ebdbb2",
-            "#1d2021"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
