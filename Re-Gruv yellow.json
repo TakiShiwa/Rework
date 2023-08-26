@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.1a (beta)",
+    "name": "Gruv Yellow 3.3.3a (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -308,6 +308,16 @@
             "#ebdbb2",
             "#000000"
         ],
+        "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
+           "#bdae93",
+	   "#665c54",
+           "#bdae93"
+	],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+            "#3c3836",
+            "#ebdbb2",
+            "#000000"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#3c3836",
             "#3c3836",
@@ -404,7 +414,7 @@
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
         "PRIMARY_200": "#ebdbb2",
-        "PRIMARY_230": "#ebdbb2",
+        "PRIMARY_230": "#bdae93",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
@@ -450,10 +460,9 @@
             "ic_soundboard":"#85876D",
             "ic_soundboard_muted": "#85876D",
             "ic_video": "#85876D",
-            "ic_video_disabled": "#85876D",
-            "ic_emoji_picker_20px": "#85876D"
+            "ic_video_disabled": "#85876D"
         },
-        "iconpack":"rosiecord-iconsax"
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
