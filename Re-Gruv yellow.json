@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3g (beta) 2 ",
+    "name": "Gruv Yellow 3.3.3h (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -204,7 +204,7 @@
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#fbf1c7",
+            "#ff0000",
             "#282828",
             "#fbf1c7"
         ],
