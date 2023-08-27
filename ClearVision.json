@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision v1.2.5k (beta)",
+    "name": "ClearVision v1.2.5k aplha (beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -411,7 +411,7 @@
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
         "PRIMARY_560": "#102b47",
-        "PRIMARY_600": "#061428",
+        "PRIMARY_600": "#06142800",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
