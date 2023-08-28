@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision v1.2.5m aplha (beta)",
+    "name": "ClearVision v1.2.5n aplha (beta)",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -14,9 +14,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#04122e",
-            "#04122e",
-            "#04122e"
+            "#04122ee6",
+            "#04122ee6",
+            "#04122ee6"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
