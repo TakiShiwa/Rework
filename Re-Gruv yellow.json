@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow v3.3.4 (beta)",
+    "name": "Gruv Yellow v3.3.4a (beta)",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -213,6 +213,11 @@
             "#b57614",
             "#fabd2f"
         ],
+        "HOME_CARD_RESTING_BORDER": [
+            "#00000000",
+            "#ebdbb2",
+            "#00000000"
+        ],
         "INFO_DANGER_BACKGROUND": [
             "#282828",
             "#fbf1c7",
@@ -327,6 +332,9 @@
             "#bdae93",
             "#665c54",
             "#bdae93"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BORDER": [
+            "#00000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#bdae93",
